@@ -1,0 +1,7 @@
+{
+  "name": "STUDYMATE",
+  "description": "A comprehensive study companion for students to manage, summarize, and share study notes with AI-powered quiz generation and a flashcard system.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
